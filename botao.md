@@ -1,0 +1,1 @@
+Este é um ficheiro inserido na branch novo-botao!
